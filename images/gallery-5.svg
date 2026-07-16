@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900">
+  <rect width="900" height="900" rx="36" fill="#050505"/>
+  <circle cx="455" cy="395" r="135" fill="#d7c4ab"/>
+  <path d="M300 650c0-110 70-190 155-190s155 80 155 190v70H300z" fill="#ffffff" opacity="0.08"/>
+  <text x="70" y="120" fill="#64dd17" font-family="Montserrat, Arial" font-size="54" font-weight="800">Executive</text>
+</svg>

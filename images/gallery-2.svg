@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111"/><stop offset="1" stop-color="#1b5e20"/></linearGradient></defs>
+  <rect width="900" height="900" rx="36" fill="url(#g)"/>
+  <circle cx="450" cy="330" r="120" fill="#d7c4ab"/>
+  <path d="M260 620c0-120 84-200 190-200s190 80 190 200v65H260z" fill="#0f1711"/>
+  <text x="70" y="120" fill="#64dd17" font-family="Montserrat, Arial" font-size="54" font-weight="800">Leadership</text>
+</svg>
